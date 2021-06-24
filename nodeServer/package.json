@@ -4,7 +4,8 @@
   "description": "This is a nodeserver for our let's chat application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node nodeServer/index.js"
   },
   "author": "Rashmi",
   "license": "ISC",
